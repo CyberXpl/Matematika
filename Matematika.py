@@ -5,7 +5,6 @@ import os
 os.system('clear')
 
 os.system("figlet kalkulator")
-print("(+)========================(+)')
 print("       BY  INDONESIA CYBER XPLOID")
 print("         Pesan=   Tidak Ada Kata Mastah")
 print('      4 Pendiri ICX Indonesia Cyber Xploid")
